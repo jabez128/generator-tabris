@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.tabrisjs.<%= name_join %>" version="1.0.0">
+  <name><%= name %></name>
+  <description>
+  	<%= description %>
+  </description>
+  <author email="<%= email %>" href="<%= homepage %>">
+  </author>
+</widget>
