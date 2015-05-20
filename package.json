@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/jabez128/generator-tabris"
   },
-  "file": [
+  "files": [
     "app"
   ],
   "keywords": [
